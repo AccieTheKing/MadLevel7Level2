@@ -9,7 +9,7 @@
         android:id="@+id/FirstFragment"
         android:name="com.example.madlevel7task2.QuizHomeFragment"
         android:label="@string/first_fragment_label"
-        tools:layout="@layout/fragment_first">
+        tools:layout="@layout/fragment_quiz_home">
 
         <action
             android:id="@+id/action_FirstFragment_to_SecondFragment"
@@ -19,7 +19,7 @@
         android:id="@+id/SecondFragment"
         android:name="com.example.madlevel7task2.QuizFragment"
         android:label="@string/second_fragment_label"
-        tools:layout="@layout/fragment_second">
+        tools:layout="@layout/fragment_quiz">
 
         <action
             android:id="@+id/action_SecondFragment_to_FirstFragment"
