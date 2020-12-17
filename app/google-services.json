@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "1029883017679",
+    "project_id": "schoolquizproject",
+    "storage_bucket": "schoolquizproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029883017679:android:1c13ffc1bf429700a5faba",
+        "android_client_info": {
+          "package_name": "com.example.madlevel7example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029883017679-8f5fc5lb8d8o1mpa34u4pagj2ia0aoc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBapT0lQgz9VwDO96Z2Rh5568s9GFpMP_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029883017679-8f5fc5lb8d8o1mpa34u4pagj2ia0aoc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029883017679:android:6c8eb75e64f41b2ca5faba",
+        "android_client_info": {
+          "package_name": "com.example.madlevel7task1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029883017679-8f5fc5lb8d8o1mpa34u4pagj2ia0aoc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBapT0lQgz9VwDO96Z2Rh5568s9GFpMP_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029883017679-8f5fc5lb8d8o1mpa34u4pagj2ia0aoc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029883017679:android:3568780b9711a9fca5faba",
+        "android_client_info": {
+          "package_name": "com.example.madlevel7task2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029883017679-8f5fc5lb8d8o1mpa34u4pagj2ia0aoc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBapT0lQgz9VwDO96Z2Rh5568s9GFpMP_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029883017679-8f5fc5lb8d8o1mpa34u4pagj2ia0aoc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
